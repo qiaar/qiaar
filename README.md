@@ -9,5 +9,4 @@ I'm a 23-year-old developer based in Cannes, France. I build web projects and sm
 ## Links
 
 - Website: [qiar.cc](https://qiar.cc)
-- X: [x.com/qiar](https://x.com/qiar)
 - Email: [me@qiar.cc](mailto:me@qiar.cc)
