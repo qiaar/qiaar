@@ -1,4 +1,4 @@
-# Hi, I'm qiar
+# 👋 Hi, I'm qiar
 
 I'm a 23-year-old developer based in Cannes, France. I build web projects and small tools, with a growing interest in backend architecture and real-time systems.
 
